@@ -25,9 +25,6 @@ services:
 
       - webnet
       
-    depends_on:
-
-      - nginx
 
 
   nginx:
