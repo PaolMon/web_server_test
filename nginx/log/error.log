@@ -1,0 +1,10 @@
+2020/09/25 08:49:38 [emerg] 11#11: cannot load certificate "/etc/letsencrypt/live/con-cert.it/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/con-cert.it/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/09/25 09:27:46 [emerg] 1#1: unexpected "}" in /etc/nginx/conf.d/default.conf:51
+2020/09/25 09:59:59 [emerg] 1#1: unexpected "}" in /etc/nginx/conf.d/default.conf:51
+2020/09/25 10:04:00 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/conf.d/default.conf:14
+2020/09/25 10:06:57 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/con-cert.it/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/con-cert.it/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/09/25 10:18:48 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/conf.d/default.conf:14
+2020/09/25 10:26:55 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/con-cert.it/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/con-cert.it/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/09/25 10:30:14 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/conf.d/default.conf:14
+2020/09/25 10:44:27 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/conf.d/default.conf:14
+2020/09/25 13:35:41 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/conf.d/default.conf:14
